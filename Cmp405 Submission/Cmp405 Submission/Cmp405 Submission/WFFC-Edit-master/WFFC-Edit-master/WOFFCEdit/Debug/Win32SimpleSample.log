@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32SimpleSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(69): warning C4305: '=': truncation from 'double' to 'float'
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(463): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(462): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(461): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(447): warning C4101: 'Buffer': unreferenced local variable
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(851): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(852): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(855): warning C4018: '<': signed/unsigned mismatch
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(863): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(862): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(869): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(871): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+\\stuhomeodd\homedrive3$\1800573\wffc-edit-master\woffcedit\game.cpp(878): warning C4018: '<': signed/unsigned mismatch
+  Win32SimpleSample.vcxproj -> \\StuHomeOdd\HomeDrive3$\1800573\WFFC-Edit-master\WOFFCEdit\Debug\WoFEdit.exe
